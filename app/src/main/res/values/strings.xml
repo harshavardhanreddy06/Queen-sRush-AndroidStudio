@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Queens Rush</string>
+    <string name="blue_queen_desc">Blue Queen</string>
+    <string name="pink_queen_desc">Pink Queen</string>
+    <string name="pink_queen_icon">Pink Queen Icon</string>
+    <string name="blue_queen_icon">Blue Queen Icon</string>
+    <string name="pink_queen">Pink Queen</string>
+    <string name="blue_queen">Blue Queen</string>
+</resources>
